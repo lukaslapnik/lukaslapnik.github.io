@@ -21,6 +21,11 @@ theme = 'PaperMod'
   weight = 2
 
   [[menu.main]]
+  name = "Reference"
+  url = "/reference/"
+  weight = 3
+
+  [[menu.main]]
   name = "Kontakt"
   url = "/about/"
-  weight = 3
+  weight = 4
