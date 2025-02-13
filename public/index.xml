@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LSTeh, Luka Slapnik s.p.</title>
+    <link>https://example.org/</link>
+    <description>Recent content on LSTeh, Luka Slapnik s.p.</description>
+    <generator>Hugo -- 0.143.1</generator>
+    <language>en-us</language>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kontakt</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/about/</guid>
+      <description>&lt;p&gt;LSTeh, Luka Slapnik, s.p.&lt;br&gt;
+Aškerčeva ulica 56&lt;br&gt;
+3330 Mozirje&lt;br&gt;
+Slovenija&lt;/p&gt;
+&lt;h4 id=&#34;davčna-številka&#34;&gt;Davčna številka:&lt;/h4&gt;
+&lt;p&gt;29385113&lt;/p&gt;
+&lt;h4 id=&#34;matična-številka&#34;&gt;Matična številka:&lt;/h4&gt;
+&lt;p&gt;9561919000&lt;/p&gt;
+&lt;h4 id=&#34;telefonska-številka&#34;&gt;Telefonska številka:&lt;/h4&gt;
+&lt;p&gt;+386 70 744 502&lt;/p&gt;
+&lt;h4 id=&#34;epošta&#34;&gt;Epošta:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:slapnik.luka@gmail.com&#34;&gt;slapnik.luka@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Storitve</title>
+      <link>https://example.org/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/services/</guid>
+      <description>&lt;h3 id=&#34;diagnostika-napak&#34;&gt;Diagnostika napak&lt;/h3&gt;
+&lt;p&gt;Splošna diagnostika napak delovanja.&lt;/p&gt;
+&lt;h3 id=&#34;meritve-in-kalibracija&#34;&gt;Meritve in kalibracija&lt;/h3&gt;
+&lt;p&gt;Izvajamo meritve geometrije in kalibracijo 3, 4 in 5-osnih strojev. Prav tako izvajamo meritve zračnosti posameznih osi. V primeru izstrošenih komponent te zamenjamo ali strokovno obnovimo.&lt;/p&gt;
+&lt;h3 id=&#34;servis&#34;&gt;Servis&lt;/h3&gt;
+&lt;p&gt;Splošen servis in odpravljanje napak.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
