@@ -1,0 +1,26 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'LSTeh, Luka Slapnik s.p.'
+
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = 'light'
+  disableThemeToggle = true
+  favicon = '/static/favicon.ico'
+
+[menu]
+  [[menu.main]]
+  name = "Domov"
+  url = "/"
+  weight = 1
+  
+  [[menu.main]]
+  name = "Storitve"
+  url = "/services/"
+  weight = 2
+
+  [[menu.main]]
+  name = "Kontakt"
+  url = "/about/"
+  weight = 3
