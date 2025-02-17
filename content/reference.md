@@ -2,7 +2,7 @@
 title: Reference
 ---
 
-#### Sodelujemo tako z slovenskimi kot tujimi podjetji:
+## Sodelujemo tako s slovenskimi kot tujimi podjetji:
 
 - CNCJKO d.o.o
 - Novak Performance Engineering
