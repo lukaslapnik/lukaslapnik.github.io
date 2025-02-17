@@ -2,14 +2,16 @@
 title: Storitve
 ---
 
-### Diagnostika napak
+### Popravilo strojev in naprav
 
-Splošna diagnostika napak delovanja.
+Izvajamo popravila vseh vrst strojev in naprav, tako na elektronskih kot mehanskih sistemih. 
 
 ### Meritve in kalibracija
 
 Izvajamo meritve geometrije in kalibracijo 3, 4 in 5-osnih strojev. Prav tako izvajamo meritve zračnosti posameznih osi. V primeru izstrošenih komponent te zamenjamo ali strokovno obnovimo.
 
-### Servis
+### Prototipiranje in konstruiranje
 
-Splošen servis in odpravljanje napak. 
+### 3D Tisk
+
+### Struženje in Rezkanje
