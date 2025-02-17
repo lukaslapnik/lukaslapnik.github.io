@@ -20,4 +20,4 @@ Nudimo klasično stružene obdelovancev premera do 330mm in dolžine do 1000mm. 
 
 ### 3D Tisk
 
-Nudimo 3D tisk s FDM tehnologijo in različnimi materiali. V strojnem parku imamo trenutno 2 3D tiskalnika. Maksimalne dimenzije 3D tiska so 310x310x250mm. 
+Nudimo 3D tisk s FDM tehnologijo dimenzij do 310x310x250mm. Podpiramo tisk z enostavnejšimi materiali (PLA/PET-G/ABS/TPU...)
