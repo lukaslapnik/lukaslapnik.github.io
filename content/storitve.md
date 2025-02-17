@@ -10,6 +10,8 @@ Izvajamo popravila vseh vrst strojev in naprav, tako na elektronskih kot mehansk
 
 Izvajamo meritve geometrije in kalibracijo 3, 4 in 5-osnih strojev. Prav tako izvajamo meritve zračnosti posameznih osi. V primeru izstrošenih komponent te zamenjamo ali strokovno obnovimo.
 
+![Meritev](/static/meritev.jpg)
+
 ### Prototipiranje in konstruiranje
 
 Nudimo storitve prototipiranja rešitev in konstruiranja. Z lastnim strojnim parkom prototipe in naprave tudi izdelamo.
