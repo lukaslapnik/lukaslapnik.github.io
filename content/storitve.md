@@ -4,7 +4,7 @@ title: Storitve
 
 ### Popravilo strojev in naprav
 
-Izvajamo popravila vseh vrst strojev in naprav, tako na elektronskih kot mehanskih sistemih. 
+Izvajamo popravila vseh vrst strojev in naprav, tako na elektronskih kot mehanskih sklopih. V primeru, da je popravilo mogoče komponente popravimo, sicer pa dobavimo in montiramo nove originalne oz. ekvivalentne komponente. 
 
 ### Meritve in kalibracija
 
