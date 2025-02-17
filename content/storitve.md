@@ -12,7 +12,7 @@ Izvajamo meritve geometrije in kalibracijo 3, 4 in 5-osnih strojev. Prav tako iz
 
 ### Prototipiranje in konstruiranje
 
-Nudimo storitve prototipiranja rešitev in konstruiranja. Za 
+Nudimo storitve prototipiranja rešitev in konstruiranja. Z lastnim strojnim parkom prototipe in naprave tudi izdelamo.
 
 ### Struženje in Rezkanje
 
