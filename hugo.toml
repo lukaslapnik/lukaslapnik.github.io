@@ -12,7 +12,7 @@ theme = 'PaperMod'
 [menu]
   [[menu.main]]
   name = "Domov"
-  url = "/"
+  url = "/_index/"
   weight = 1
   
   [[menu.main]]
